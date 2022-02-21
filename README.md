@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Kyrillos
 #### I am Frontend Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrillos1993&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillos1993" /> </p>
 ![I am Frontend Developer](https://www.hilemangroup.com/HilemanGroup/media/hileman/blog/2017/images/coding.jpg?ext=.jpg)
 
 <p align="left">
