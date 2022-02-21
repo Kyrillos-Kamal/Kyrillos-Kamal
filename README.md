@@ -1,12 +1,9 @@
 ### Hi there 👋, I am Kyrillos
 #### I am Frontend Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrillos1993&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillos1993" /> </p>
-![I am Frontend Developer](https://www.hilemangroup.com/HilemanGroup/media/hileman/blog/2017/images/coding.jpg?ext=.jpg)
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=kyrillos1993" alt="kyrillos1993" /></a>
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrillos1993&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillos1993" /> </p>
+
+![I am Frontend Developer](https://www.hilemangroup.com/HilemanGroup/media/hileman/blog/2017/images/coding.jpg?ext=.jpg)
 
 I am a Frontend Engineer with experience in Frontend Development.
 Passionate in User Experience and delivering Pixel Perfect implementation of the design and reusable & well-structured codebase.
