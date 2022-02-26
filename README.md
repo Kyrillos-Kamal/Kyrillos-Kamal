@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrillos1993&label=Profile%20views&color=0e75b6&style=flat" alt="kyrillos1993" /> </p>
 
-<div align="center">![I am Frontend Developer](https://www.hilemangroup.com/HilemanGroup/media/hileman/blog/2017/images/coding.jpg?ext=.jpg)
-</div>
+![I am Frontend Developer](https://www.hilemangroup.com/HilemanGroup/media/hileman/blog/2017/images/coding.jpg?ext=.jpg)
+
 I am a Frontend Engineer with experience in Frontend Development.
 Passionate in User Experience and delivering Pixel Perfect implementation of the design and reusable & well-structured codebase.
 Enthusiast about Javascript & Typescript and how it works behind the scene. and also experienced in React.JS and its ecosystem(styled-components).
