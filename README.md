@@ -29,9 +29,9 @@ Skills: HTML / CSS / BOOTSTRAP / JS / jQuery / React.JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kyrillos1993)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillos1993)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrillos-kamal)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrillos1993&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrillos-kamal&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kyrillos1993)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kyrillos-kamal)  
 
